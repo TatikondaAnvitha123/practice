@@ -1,0 +1,7 @@
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\bin\Debug\practice1.exe.config
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\bin\Debug\practice1.exe
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\bin\Debug\practice1.pdb
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\obj\Debug\practice1.csproj.AssemblyReference.cache
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\obj\Debug\practice1.exe
+C:\Users\anves\OneDrive\Mphasis\practice1\practice1\obj\Debug\practice1.pdb
